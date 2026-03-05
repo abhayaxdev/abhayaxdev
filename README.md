@@ -14,6 +14,6 @@
       "agentic_schtuff": ["gh_copilot", "copilot_cli", "OpenCode"]
   }
   "hireable": true,
-  "site": https://abhaya.dev/,
+  "site": "https://abhaya.dev/",
 }
 ```
