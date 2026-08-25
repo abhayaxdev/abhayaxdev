@@ -11,7 +11,7 @@
       "frameworks": ["django", "fastapi", "NextJS"],
       "databases": ["POSTGRESQL", "MYSQL"],
       "tools": ["git", "docker"],
-      "agentic_schtuff": ["gh_copilot", "copilot_cli", "OpenCode"]
+      "harness": ["OpenCode", "Pi"]
   }
   "hireable": true,
   "site": "https://abhaya.dev/",
